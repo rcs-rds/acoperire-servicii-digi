@@ -1,12 +1,12 @@
 {
-  "name": "Test Map",
+  "name": "New folder",
   "version": "1.0.0",
   "description": "",
   "type": "overlay",
   "format": "png",
   "minzoom": "5",
   "maxzoom": "9",
-  "bounds": "18.92428732,43.56108101,29.74687532,48.28841088",
+  "bounds": "18.91921531,43.57262762,29.74685322,48.29866763",
   "scale": "1",
   "profile": "mercator"
 }

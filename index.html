@@ -11,11 +11,10 @@ var map;
 var mapMinZoom = 5;
 var mapMaxZoom = 9;
 var mapBounds = new google.maps.LatLngBounds(
-  new google.maps.LatLng(43.561081, 18.924287),
-  new google.maps.LatLng(48.288411, 29.746875));
+  new google.maps.LatLng(43.572628, 18.919215),
+  new google.maps.LatLng(48.298668, 29.746853));
 var mapGetTile = function(x,y,z) { 
-  var yy = Math.pow(2, z) - y - 1;
-  return z + "/" + x + "/" + yy + ".png";
+  return z + "/" + x + "/" + y + ".png";
 }
 
 function init() {

@@ -8,15 +8,15 @@
   <script>
     function init() {
         var bounds = new L.LatLngBounds(
-            new L.LatLng(43.561081, 18.924287),
-            new L.LatLng(48.288411, 29.746875));
+            new L.LatLng(43.572628, 18.919215),
+            new L.LatLng(48.298668, 29.746853));
         var map = L.map('map').fitBounds(bounds);
         L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
         var options = {
             minZoom: 5,
             maxZoom: 9,
             opacity: 1.0,
-            tms: true
+            tms: false
         };
         L.tileLayer('{z}/{x}/{y}.png', options).addTo(map);
     }
