@@ -1,0 +1,12 @@
+{
+  "name": "Acoperire Digi Mobil August 2014",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "5",
+  "maxzoom": "7",
+  "bounds": "18.91090134,43.58254650,29.73246458,48.30929821",
+  "scale": "1",
+  "profile": "mercator"
+}
