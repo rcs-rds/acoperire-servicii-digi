@@ -492,6 +492,18 @@ $('button[data-loading-text]')
 });
 </script>
 
+<script type="text/javascript">
+/* Javascript to link directly to an open modal window with Bootstrap. */
+
+$(document).ready(function() {
+  if(window.location.href.indexOf('#ModalResetareTrafic') != -1) {
+    $('#ModalResetareTrafic').modal('show');
+  }
+});
+
+/* Access via http://rcs-rds.github.io/#ModalResetareTrafic to load the page with the modal open */
+</script>
+
 <!-- IPv6-test.com widget script BEGIN -->
 <!-- //disabled//
 <script type="text/javascript">var _ipv6test_widget_style = {
