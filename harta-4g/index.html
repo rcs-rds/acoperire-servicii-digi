@@ -363,13 +363,13 @@ h2 {
 
           legend.id = 'legend';
           var content = [];
-            content.push('<h3><u>Legenda</u></h3>');
-            content.push('<div class="color red"></div> Acoperire de exterior foarte buna<br><br>');
-            content.push('<div class="color orange"></div> Acoperire de exterior buna<br><br>');
-            content.push('<div class="color yellow"></div> Acoperire de exterior buna<br><br>');
-            content.push('<div class="color green"></div> Acoperire de exterior moderata<br><br>');
-            content.push('<div class="color lightblue"></div> Acoperire de exterior redusa<br><br>');
-            content.push('<div class="color blue"></div> Acoperire de exterior limitata<br><br>');
+            content.push('<h3><u>Acoperire</u></h3>');
+            content.push('<div class="color red"></div> foarte buna<br>');
+            content.push('<div class="color orange"></div> buna<br>');
+            content.push('<div class="color yellow"></div> buna<br>');
+            content.push('<div class="color green"></div> moderata<br>');
+            content.push('<div class="color lightblue"></div> redusa<br>');
+            content.push('<div class="color blue"></div> limitata<br>');
           legend.innerHTML = content.join('');
           legend.index = 1;
           map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(legend);
