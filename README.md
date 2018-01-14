@@ -1,16 +1,16 @@
 acoperire-servicii-digi
 =======================
 
-## Harta Acoperire Digi Mobil 4G 2600MHz 2017 ##
+## Harta Acoperire Digi Mobil 4G 2600MHz 2018 ##
 http://rcs-rds.github.io/acoperire-servicii-digi/harta-4g/
 
-## Harta Acoperire Digi Mobil 4G 2100MHz 2017 ##
+## Harta Acoperire Digi Mobil 4G 2100MHz 2018 ##
 http://rcs-rds.github.io/acoperire-servicii-digi/harta-4g-2100/
 
-## Harta Acoperire Digi Mobil 3G Voce 2017 ##
+## Harta Acoperire Digi Mobil 3G Voce 2018 ##
 http://rcs-rds.github.io/acoperire-servicii-digi/harta-3g/
 
-## Harta Acoperire Digi Mobil 3G Date 2017 ##
+## Harta Acoperire Digi Mobil 3G Date 2018 ##
 http://rcs-rds.github.io/acoperire-servicii-digi/harta-3g-date/
 
 ## Harta Acoperire Digi Mobil 3G August 2014 ##
